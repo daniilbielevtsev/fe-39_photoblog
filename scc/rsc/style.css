@@ -4,24 +4,42 @@ body {
   font-weight: 400;
   color: #626262;
 }
+.conteiner {
+  max-width: 936px;
+  padding-left: 15px;
+  padding-right: 15px;
+  margin-left: auto;
+  margin-right: auto;
+}
+/* =====================================Header================================ */
 .menu-link {
   color: #7d7d7d;
   text-decoration: none;
 }
 .menu-link:hover {
-  color: cyan;
+  color: #03a9f4;
 }
-.gallerry-category {
+.header {
+  padding-top: 71px;
+  padding-bottom: 92px;
+}
+
+/* =====================================Main================================ */
+.gellery {
+  padding-bottom: 66px;
+}
+.gallary-category {
   font-family: "Ubuntu", sans-serif;
   font-weight: 300;
-  color: bisque;
+  color: #b4ad9e;
 }
-.gallerry-titel {
+.gallary-title {
   font-weight: 400;
   font-size: 30px;
 }
-.gallerry-button {
-  font-family: "Ubuntu", sans-serif;
+.gallary-button {
+  font-family: "Playfair Display", serif;
+  font-size: 14px;
   font-weight: 400;
   color: #626262;
 }
